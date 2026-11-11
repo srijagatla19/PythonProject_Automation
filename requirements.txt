@@ -1,0 +1,4 @@
+PyPDF2==3.0.1
+reportlab==5.1.0
+pdfrw==0.4
+requests>=2.31,<3
